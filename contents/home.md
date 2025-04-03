@@ -1,4 +1,3 @@
-### **Zhenkui Yang(杨振奎)**  
 **I'm currently pursuing a Master's degree in Software Engineering at the Department of Software Engineering, Xi'an Jiaotong University, Xi'an, Shaanxi, China.**  
 [![GitHub](https://img.shields.io/badge/GitHub-yangzhenkui-blue?logo=github)](https://github.com/yangzhenkui)  
 **Email:** <code>zkyang@stu.xjtu.edu.cn</code>  
