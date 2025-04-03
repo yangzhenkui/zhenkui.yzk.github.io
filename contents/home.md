@@ -1,20 +1,49 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+### **杨振奎 (Yang Zhenkui)**  
+**Master's Student in Software Engineering, Xi'an Jiaotong University**  
+[![GitHub](https://img.shields.io/badge/GitHub-yangzhenkui-blue?logo=github)](https://github.com/yangzhenkui)  
+**Email:** <code>1586464596@qq.com</code>  
+**Phone:** <code>(+86) 182-2490-4774</code>  
+**WeChat:** <code>B612_2021</code>  
+
+---
+
+### **Education**  
+**Xi'an Jiaotong University (985 Institution)**, Xi'an, Shaanxi  
+*Master of Software Engineering* (Sep 2022 – Jul 2025)  
+- GPA: 3.72/4.0 (Score: 89.71/100)  
+- Research Focus: Wireless Sensing  
+
+**Northeast Forestry University (211 Institution)**, Harbin, Heilongjiang  
+*Honours Bachelor of Computer Science and Technology* (Sep 2017 – Jul 2022)  
+- GPA: Top 3.3% (Rank: 7/208)  
+- Note: 5-year program due to a major switch from Forest Product Chemical Engineering; also completed a dual degree in Accounting (Sep 2018 – Jul 2021). 
+
+I'm currently pursuing a Master's degree in Software Engineering at the Department of Software Engineering, Xi'an Jiaotong University, Xi'an, Shaanxi, China.
+
+### **杨振奎 (Yang Zhenkui)**  
+**Master's Student in Software Engineering, Xi'an Jiaotong University**  
+[![GitHub](https://img.shields.io/badge/GitHub-yangzhenkui-blue?logo=github)](https://github.com/yangzhenkui)  
+**Email:** <code>1586464596@qq.com</code>  
+**Phone:** <code>(+86) 182-2490-4774</code>  
+**WeChat:** <code>B612_2021</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Xi'an Jiaotong University** (985 Institution), Xi'an, Shaanxi
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+Master of Software Engineering (Sep 2022 – Jul 2025)
+
+- GPA: 3.72/4.0 (Score: 89.71/100)
+- Research Focus: Wireless Sensing
+
+**Northeast Forestry University** (211 Institution), Harbin, Heilongjiang
+
+- Honours Bachelor of Computer Science and Technology (Sep 2017 – Jul 2022)
+
+- GPA: Top 3.3% (Rank: 7/208)
 
 #### Research Interests  
-XX, XX, XX, XX.
+Wireless Sensing, Recommendation Systems, NLP, Large Language Models
